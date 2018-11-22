@@ -1,0 +1,57 @@
+#services .custom-container{
+  border:none;
+  font-size: 1.5rem;
+}
+#service-one .custom-container .btn-custom-primary{
+   border-radius: 0;
+   font-size: 1.5rem;
+}
+#service-one .custom-container .btn-custom-secondary{
+   border-radius: 0;
+   font-size: 1.5rem;
+}
+#service-one .custom-container .btn-custom-success{
+   border-radius: 0;
+   font-size: 1.5rem;
+}
+#service-one .custom-container .btn-custom-danger{
+   border-radius: 0;
+   font-size: 1.5rem;
+}
+#service-one .custom-container .btn-custom-warning{
+   border-radius: 0;
+   font-size: 1.5rem;
+}
+#service-one .custom-container .btn-custom-info{
+   border-radius: 0;
+   font-size: 1.5rem;
+}
+#service-one .custom-container .btn-custom-light{
+   border-radius: 0;
+   font-size: 1.5rem;
+}
+#service-one .custom-container .btn-custom-link{
+   border-radius: 0;
+   font-size: 1.5rem;
+}
+#services-two .custom-container .btn-group .btn-custom-secondary{
+   border-radius: 0;
+   font-size: 1.5rem;
+   margin-top: 1.5rem;
+}
+#services-three .custom-container .custom-badge .custom-bagde-secondary{
+   border-radius: 0;
+   font-size: 2rem;
+}
+#services-four .custom-container .custom-card{
+   border-radius: 0;
+   font-size: 1.1rem;
+}
+#services-four .custom-container .custom-card .custom-card-body .custom-card-title{
+   border-radius: 0;
+   font-size: 3rem;
+}
+#services-four .custom-container .custom-card .custom-card-body .custom-card-title .custom-card-{
+   border-radius: 0;
+   font-size: 3rem;
+}
